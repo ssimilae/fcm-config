@@ -19,7 +19,4 @@
 	<platform name="ios">
 		<source-file src="GoogleService-Info.plist"/>
 	</platform>
-
-	<framework src="com.google.android.gms:play-services-gcm:9.0.0" />
-
 </plugin>
