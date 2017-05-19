@@ -19,4 +19,5 @@
 	<platform name="ios">
 		<source-file src="GoogleService-Info.plist"/>
 	</platform>
+	<framework src="com.google.android.gms:play-services-auth:9.2.0" />
 </plugin>
