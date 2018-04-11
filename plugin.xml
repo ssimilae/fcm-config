@@ -16,6 +16,7 @@
 		<source-file src="google-services.json" target-dir="./"/>
 	</platform>
 
+
 	<platform name="ios">
 		<!-- <source-file src="GoogleService-Info.plist" target-dir="./"/> -->
 			<resource-file src="GoogleService-Info.plist" target="Resources/GoogleService-Info.plist" />
